@@ -1,0 +1,27 @@
+
+.Hurryup p{
+  color: #333;
+margin-bottom: 25px;
+  
+}
+.Hurryup input,
+.Hurryup button {
+padding: 15px;
+  
+}
+
+.Hurryup .hurryUpText{
+width: 75%;
+}
+.Hurryup .hurryUpinput{
+width: 50%;
+}
+
+@media (max-width:500px){
+  .Hurryup .hurryUpText{
+    width: 97%;
+    }
+    .Hurryup .hurryUpinput{
+    width: 80%;
+    }
+}

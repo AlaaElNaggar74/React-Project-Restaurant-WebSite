@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+
+nav{
+  position: sticky !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+
+.navbarback-custom{
+  background-color: aliceblue;
+}
+
+.navbar .navbar-brand h3,
+.navbar .navbar-brand h5{
+  color: aliceblue;
+  font-weight: bold;
+  font-family: 'Rubik Iso', cursive;
+}
+
+.navbar .navbar-brand h3{
+  margin-bottom: -5px;
+  /* font-family:Georgia, 'Times New Roman', Times, serif; */
+}
+
+
+.navbar .navbar-nav .nav-item .nav-link,
+.navbar .navbar-nav .nav-item .nav-link.active{
+  color: brown;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.navbar .navbar-nav .nav-item .nav-link button{
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+@media (max-width:500px) {
+  .navbar  li{
+    width: 100%;
+    text-align: left;
+    padding-left: 10px;
+  }
+  
+}

@@ -1,0 +1,29 @@
+.Footer{
+  background-color: brown;
+  color: aliceblue;
+  padding: 60px 0;
+}
+
+.Footer .row{
+width: 50% ;
+}
+.Footer h5{
+  cursor: pointer;
+}
+.Footer .icon{
+
+  margin: 25px 0;
+}
+.Footer i{
+  font-size: 2rem;
+  margin:5px 15px;
+  cursor: pointer;
+}
+
+@media (max-width:500px){
+  .Footer .row{
+    width: 100% ;
+
+    }
+  
+  }

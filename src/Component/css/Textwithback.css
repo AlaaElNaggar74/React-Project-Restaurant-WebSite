@@ -1,0 +1,72 @@
+
+.Textwithback{
+  background-image:  url(../../Picture/pic-texwithba-4.jpg);;
+  background-position: center;
+  background-size: cover;
+  padding: 100px 0;
+}
+.Textwithback .text{
+width: 75%;
+margin: auto;
+text-align: center;
+
+}
+
+.Textwithback .text h2{
+  color: rgb(235, 5, 5);
+  margin-bottom: 20px;
+  }
+  .Textwithback .text p{
+  color: #333;
+  width: 70%;
+  margin: auto;
+  
+  }
+  .Textwithback .text div{
+    font-weight: bold;
+  font-size:1rem;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  }
+  .Textwithback .text div i{
+
+  font-size: 1.5rem;
+  }
+
+@media (max-width:500px){
+  .Textwithback .text{
+    width: 98%;
+  
+    
+    }
+    .Textwithback .text p{
+    
+      width: 95%;
+
+      
+      }
+}
+
+/* .Textwithback{
+  background-image:  url(../../Picture/pic-textwithba-1.jpg);
+  background-position: center;
+  background-size: 100% 100%;
+  background-size: cover;
+  padding: 100px 0;
+}
+.Textwithback .text{
+width: 75%;
+margin: auto;
+text-align: center;
+}
+.Textwithback .text h2{
+color: brown;
+}
+.Textwithback .text p{
+color: #333;
+width: 70%;
+margin: auto;
+} */

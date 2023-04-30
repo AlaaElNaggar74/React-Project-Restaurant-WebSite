@@ -1,0 +1,52 @@
+
+
+.Ourproduct .car{
+  text-align: left;
+}
+
+.Ourproduct .car h5{
+  margin-top: 20px;
+
+}
+
+.Ourproduct .car h6{
+color: #797979;
+}
+
+.Ourproduct .car h4{
+color: brown;
+margin-bottom: 30px;
+}
+
+.Ourproduct .car h4 span{
+  color: #797979;
+vertical-align: auto;
+margin-left: 5px;
+text-decoration: line-through;
+
+}
+.Ourproduct .car img{
+height: 250px;
+width: 100%;
+border-radius: 20px;
+}
+.Ourproduct .text p{
+  color: #797979;
+  width: 80%;
+}
+.Ourproduct .text h1{
+  color: brown;
+
+}
+.car .car-body a:hover{
+background-color: aliceblue;
+color: black;
+font-weight: bold;
+}
+
+@media (max-width:550px){
+
+  .Ourproduct .text p{
+    width: 94%;
+  }
+}

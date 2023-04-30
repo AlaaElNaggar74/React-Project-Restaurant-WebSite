@@ -1,0 +1,64 @@
+.Wemakeever .text {
+  text-align: left;
+  padding-right: 10px;
+  color: brown;
+}
+
+.Wemakeever .text p {
+  color: #333;
+}
+.Wemakeever .text .mainp {
+  line-height: 2;
+}
+
+.Wemakeever img {
+  width: 100%;
+}
+
+.fidivima {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: end;
+}
+
+.fidivima .immgo {
+  width: 60%;
+  height: 100%;
+  margin-left: 7px;
+  margin-bottom: 7px;
+
+}
+
+.fidivima .immgo img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.fidivima .immgt {
+  width: 30%;
+  height: 175px;
+  margin-bottom: 5px;
+}
+
+.fidivima .immgt img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.secdivimag {
+  display: flex;
+}
+.secdivimag .immgth {
+width: 50%;
+}
+/* .secdivimag .immgth img{
+
+} */
+.secdivimag .immgfou {
+width: 50%;
+margin-left: 7px;
+}
+.secdivimag .immgfou img {
+height: 250px;
+}

@@ -1,0 +1,22 @@
+
+.Staticnumber{
+
+}
+
+.Staticnumber .row > div{
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: aliceblue;
+}
+
+.Staticnumber h1{
+margin-bottom: -0.5px;
+/* margin-bottom: -1px; */
+
+}
+
+.Staticnumber{
+
+}

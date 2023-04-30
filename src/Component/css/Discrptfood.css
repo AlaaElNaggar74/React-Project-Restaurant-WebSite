@@ -1,0 +1,15 @@
+
+
+.Discrptfood img{
+  width: 100%;
+  border-radius: 20px;
+}
+
+.Discrptfood .distext{
+  text-align: left;
+  color: brown;
+}
+.Discrptfood .distext p{
+  text-align: left;
+  color: rgb(87, 87, 87);
+}

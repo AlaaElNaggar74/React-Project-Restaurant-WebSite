@@ -1,0 +1,10 @@
+.Bokedfresh{
+  background-image: linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.5)) ,url(../../Picture/pexels-edward-eyer-687824.jpg);
+  background-position: center;
+  background-size: cover;
+padding: 70px 0;
+margin: 50px 0;
+}
+.Bokedfresh h1{
+color: antiquewhite;
+}

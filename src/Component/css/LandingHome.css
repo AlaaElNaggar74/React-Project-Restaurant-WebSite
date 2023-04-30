@@ -1,0 +1,43 @@
+.LandingHome {
+  height: calc(100vh - 67.031px);
+  background-image: url(../../Picture/pic-1.jpg);
+  background-position: center;
+  background-size: 100% 100%;
+  /* background-size: cover; */
+}
+
+.LandingHome h1,
+.LandingHome p {
+  text-align: left;
+  color: aliceblue;
+
+}
+
+.LandingHome p {
+  color: rgb(201, 188, 171);
+}
+
+.LandingHome img {
+  width: 100%;
+  height: 100%;
+
+
+}
+
+.LandingHome .container,
+.LandingHome .row {
+  height: 100%;
+
+}
+
+.LandingHome .row .hhh {
+  height: 100%;
+
+}
+
+
+@media (max-width:400px) {
+  .d-nonex {
+    display: none;
+  }
+}
